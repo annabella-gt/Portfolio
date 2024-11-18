@@ -64,7 +64,7 @@ nav li.active a {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero h2 {
@@ -82,7 +82,7 @@ nav li.active a {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px 0 20px;
 }
 .content h1 {
   font-size: 64px;
@@ -135,7 +135,7 @@ nav li.active a {
 }
 
 .selfie {
-  border-radius: 8px;
+  border-radius: 20px;
 }
 
 .logo {
@@ -185,10 +185,6 @@ footer .social-links a:hover {
   h2 {
     font-size: 44px;
     line-height: 1.4;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
   .project-description {
     padding: 0;
